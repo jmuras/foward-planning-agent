@@ -12,6 +12,7 @@ Run the search experiment manually (you will be prompted to select problems & se
 ``
 $ python run_search.py -m
 ``
+
 You can also run specific problems & search algorithms - e.g., to run breadth first search and UCS on problems 1 and 2:
 
 ``
